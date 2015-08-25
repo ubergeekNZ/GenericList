@@ -36,6 +36,6 @@ Update the cache of the linker:
     $ sudo ldconfig -v | grep gmock
     
 
-Run unit test, just run the script which will build and run the unit test.
+Run unit test by executing the script.
    
     $ ./buildtests
