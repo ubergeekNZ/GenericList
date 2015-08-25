@@ -2,7 +2,7 @@
 
 Template list.
 
-# Install google test and google mock to run unit test
+Install google test and google mock to run unit test
 
 Download:
 
